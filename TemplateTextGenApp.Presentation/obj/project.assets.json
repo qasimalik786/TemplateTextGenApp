@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Presentation\\TemplatorText.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Presentation\\TemplatorText.Presentation.csproj",
       "projectName": "TemplatorText.Presentation",
-      "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Presentation\\TemplatorText.Presentation.csproj",
+      "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Presentation\\TemplatorText.Presentation.csproj",
       "packagesPath": "C:\\Users\\QASI012\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QASI012\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Application\\TemplatorText.Application.csproj": {
-              "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Application\\TemplatorText.Application.csproj"
+            "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Application\\TemplatorText.Application.csproj": {
+              "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Application\\TemplatorText.Application.csproj"
             },
-            "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj": {
-              "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj"
+            "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj": {
+              "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj"
             },
-            "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj"
+            "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj"
             }
           }
         }

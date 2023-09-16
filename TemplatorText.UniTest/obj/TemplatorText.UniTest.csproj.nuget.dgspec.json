@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj": {}
+    "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj": {
+    "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj",
         "projectName": "TemplatorText.Domain",
-        "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj",
+        "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj",
         "packagesPath": "C:\\Users\\QASI012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QASI012\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj": {
+    "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj",
         "projectName": "TemplatorText.Infrastructure",
-        "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\QASI012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QASI012\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,14 +114,14 @@
         }
       }
     },
-    "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj": {
+    "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj",
+        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj",
         "projectName": "TemplatorText.UniTest",
-        "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj",
+        "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplatorText.UniTest\\TemplatorText.UniTest.csproj",
         "packagesPath": "C:\\Users\\QASI012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\obj\\",
+        "outputPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplatorText.UniTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QASI012\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,11 +138,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj": {
-                "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj"
+              "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj": {
+                "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj"
               },
-              "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj"
+              "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj"
               }
             }
           }

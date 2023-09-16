@@ -17,7 +17,7 @@ string template = "Hello {Name},\n\nWe will be glad to see you in our office in 
 TemplateProcessor<DataModel> templateProcessor = new
 ();
 
-TemplateTextService templateService = new
+TemplateTextService<DataModel> templateService = new
 (templateProcessor);
 
 string generatedText = templateService.GenTextFromTemplate(template, dataModel);
