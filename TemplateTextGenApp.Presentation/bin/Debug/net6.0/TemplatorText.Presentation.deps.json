@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TemplatorText.Presentation/1.0.0": {
+        "dependencies": {
+          "TemplatorText.Application": "1.0.0",
+          "TemplatorText.Domain": "1.0.0",
+          "TemplatorText.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "TemplatorText.Presentation.dll": {}
+        }
+      },
+      "TemplatorText.Application/1.0.0": {
+        "dependencies": {
+          "TemplatorText.Domain": "1.0.0",
+          "TemplatorText.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "TemplatorText.Application.dll": {}
+        }
+      },
+      "TemplatorText.Domain/1.0.0": {
+        "runtime": {
+          "TemplatorText.Domain.dll": {}
+        }
+      },
+      "TemplatorText.Infrastructure/1.0.0": {
+        "runtime": {
+          "TemplatorText.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplatorText.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplatorText.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplatorText.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplatorText.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

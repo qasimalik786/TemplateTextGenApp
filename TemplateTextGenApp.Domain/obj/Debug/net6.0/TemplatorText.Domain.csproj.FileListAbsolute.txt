@@ -1,0 +1,12 @@
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\bin\Debug\net6.0\TemplatorText.Domain.deps.json
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\bin\Debug\net6.0\TemplatorText.Domain.dll
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\bin\Debug\net6.0\TemplatorText.Domain.pdb
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\TemplatorText.Domain.csproj.AssemblyReference.cache
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\TemplatorText.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\TemplatorText.Domain.AssemblyInfoInputs.cache
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\TemplatorText.Domain.AssemblyInfo.cs
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\TemplatorText.Domain.csproj.CoreCompileInputs.cache
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\TemplatorText.Domain.dll
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\refint\TemplatorText.Domain.dll
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\TemplatorText.Domain.pdb
+C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplateTextGenApp.Domain\obj\Debug\net6.0\ref\TemplatorText.Domain.dll

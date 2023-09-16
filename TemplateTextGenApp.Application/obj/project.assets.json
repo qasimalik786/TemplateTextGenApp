@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TemplatorText.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TemplatorText.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TemplatorText.Domain.dll": {}
+        }
+      },
+      "TemplatorText.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TemplatorText.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TemplatorText.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplatorText.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TemplateTextGenApp.Domain/TemplatorText.Domain.csproj",
+      "msbuildProject": "../TemplateTextGenApp.Domain/TemplatorText.Domain.csproj"
+    },
+    "TemplatorText.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../TemplateTextGenApp.Infrastructure/TemplatorText.Infrastructure.csproj",
+      "msbuildProject": "../TemplateTextGenApp.Infrastructure/TemplatorText.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TemplatorText.Domain >= 1.0.0",
+      "TemplatorText.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\QASI012\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Application\\TemplatorText.Application.csproj",
+      "projectName": "TemplatorText.Application",
+      "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Application\\TemplatorText.Application.csproj",
+      "packagesPath": "C:\\Users\\QASI012\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\QASI012\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj": {
+              "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj"
+            },
+            "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Infrastructure\\TemplatorText.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
