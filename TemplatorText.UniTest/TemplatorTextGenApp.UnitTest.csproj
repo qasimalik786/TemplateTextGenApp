@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TemplateTextGenApp.Domain\TemplatorText.Domain.csproj" />
-    <ProjectReference Include="..\TemplateTextGenApp.Infrastructure\TemplatorText.Infrastructure.csproj" />
+    <ProjectReference Include="..\TemplateTextGenApp.Domain\TemplatorTextGenApp.Domain.csproj" />
+    <ProjectReference Include="..\TemplateTextGenApp.Infrastructure\TemplatorTextGenApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

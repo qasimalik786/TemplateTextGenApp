@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TemplateTextGenApp.Application\TemplatorText.Application.csproj" />
-    <ProjectReference Include="..\TemplateTextGenApp.Domain\TemplatorText.Domain.csproj" />
-    <ProjectReference Include="..\TemplateTextGenApp.Infrastructure\TemplatorText.Infrastructure.csproj" />
+    <ProjectReference Include="..\TemplateTextGenApp.Application\TemplatorTextGenApp.Application.csproj" />
+    <ProjectReference Include="..\TemplateTextGenApp.Domain\TemplatorTextGenApp.Domain.csproj" />
+    <ProjectReference Include="..\TemplateTextGenApp.Infrastructure\TemplatorTextGenApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
