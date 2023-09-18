@@ -1,6 +1,6 @@
 # Templator Text Generator
 
-Custom text generator by template
+Custom text generator by template.
 
 ## Requirements
 
@@ -12,6 +12,24 @@ Custom text generator by template
 6. Unit tests are not required but really nice to have.
 7. UI is not required.
 
+## Overview
+
+1. **Define Data Model**
+
+   Created classes 'DataModel' and 'Address' to represent structured data.
+
+3. **TemplateService** 
+
+    This class acts as a bridge between data and template processor.
+   
+4. **Process Templates**
+
+   2.1 The 'TemplateProcessor' class is responsible for transforming templates into meaningful text.
+   2.2 'TemplateToTextGenerator'. This method takes a template as an input and returns generated text as an output.
+
+ 5. **Implement App**
+    
+   'Program.cs' class, instantiate data model and templateService and templateProcessor, calling GenTextFromTemplate to process the template
 ## Project Architecture
 
 Clean Code Architecture principles have been applied to develop the application.
@@ -19,5 +37,7 @@ Clean Code Architecture principles have been applied to develop the application.
 ## Folder Structure
 
 ![image](https://github.com/qasimalik786/TemplatorText/assets/93033428/aa8fa280-ed28-4162-8ee3-aab28a6ca36b)
+
+
 
 
