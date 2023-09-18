@@ -2340,9 +2340,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorTextGenApp.UniTest.csproj",
-      "projectName": "TemplatorTextGenApp.UniTest",
-      "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorTextGenApp.UniTest.csproj",
+      "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorTextGenApp.UnitTest.csproj",
+      "projectName": "TemplatorTextGenApp.UnitTest",
+      "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorTextGenApp.UnitTest.csproj",
       "packagesPath": "C:\\Users\\QASI012\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\obj\\",
       "projectStyle": "PackageReference",

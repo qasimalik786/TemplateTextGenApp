@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qFaK6na+nhq/zLNu4/g4s5YkGIYaptOE16sSFlaZVkbYjTiaqSBH6IvzZ27vzbMN4gnsXLsacEbMRt91Vrk/lA==",
+  "dgSpecHash": "aEGr1X3k7SAAR1cSYlh7ajYm79OJ1/SsTv9gsmuhHVV5YDQs/m7q9RmS3lwnU6iGTiDxiUWjKbc6z3ZdEQgV4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorTextGenApp.UniTest.csproj",
+  "projectFilePath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplatorText.UniTest\\TemplatorTextGenApp.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QASI012\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\QASI012\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
