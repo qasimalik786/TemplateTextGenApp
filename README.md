@@ -1,4 +1,4 @@
-# Template Text Generator App
+# Templator Text Generator App
 
 Custom text generator by template.
 
@@ -36,6 +36,5 @@ Clean Code Architecture principles have been applied to develop the application.
 
 ## Folder Structure
 
-![image](https://github.com/qasimalik786/TemplateTextGenApp/assets/93033428/f56ad78a-0c27-41cc-a77b-f3b186c5d9d8)
-
+![image](https://github.com/qasimalik786/TemplateTextGenApp/assets/93033428/51868ecb-939f-400b-aa14-68daf2fff01d)
 
