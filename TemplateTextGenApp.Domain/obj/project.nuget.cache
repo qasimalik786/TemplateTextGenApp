@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fjijwag4z8qXA3Rdl2Kpol8bLEneHTaZhSnvkHlA0qXsAyDPmjchPhok3t+ph+pmhZ1N8F/pjGvZqLi430V7Aw==",
+  "dgSpecHash": "D6Ht9E3OVV/MD4up9JPA6U01YtzdFhWu90oXeeaTbzU39eUn7s3xTOiRyGNrjZACt2eddvie9xyonFJ5ZSq72Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\QASI012\\source\\repos\\newapp\\TemplatorText\\TemplateTextGenApp.Domain\\TemplatorText.Domain.csproj",
+  "projectFilePath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
