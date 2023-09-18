@@ -1,4 +1,4 @@
-# Templator Text Generator App
+# Template Text Generator App
 
 Custom text generator by template.
 
