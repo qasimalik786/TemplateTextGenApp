@@ -1,6 +1,6 @@
 ﻿using TemplateTextGenApp.Domain;
-using TemplatorText.Application;
-using TemplatorText.Infrastructure;
+using TemplatorTextGenApp.Application;
+using TemplatorTextGenApp.Infrastructure;
 
 DataModel dataModel = new
 ()

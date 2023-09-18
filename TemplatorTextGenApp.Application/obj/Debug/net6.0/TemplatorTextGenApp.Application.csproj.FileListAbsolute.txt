@@ -1,0 +1,17 @@
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\bin\Debug\net6.0\TemplatorTextGenApp.Application.deps.json
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\bin\Debug\net6.0\TemplatorTextGenApp.Application.dll
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\bin\Debug\net6.0\TemplatorTextGenApp.Application.pdb
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\bin\Debug\net6.0\TemplatorTextGenApp.Domain.dll
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\bin\Debug\net6.0\TemplatorTextGenApp.Infrastructure.dll
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\bin\Debug\net6.0\TemplatorTextGenApp.Domain.pdb
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\bin\Debug\net6.0\TemplatorTextGenApp.Infrastructure.pdb
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.csproj.AssemblyReference.cache
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.AssemblyInfoInputs.cache
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.AssemblyInfo.cs
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.csproj.CopyComplete
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.dll
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\refint\TemplatorTextGenApp.Application.dll
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\TemplatorTextGenApp.Application.pdb
+C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorTextGenApp.Application\obj\Debug\net6.0\ref\TemplatorTextGenApp.Application.dll

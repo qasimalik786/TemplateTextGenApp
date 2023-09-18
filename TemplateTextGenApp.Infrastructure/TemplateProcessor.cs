@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Text.RegularExpressions;
 
-namespace TemplatorText.Infrastructure
+namespace TemplatorTextGenApp.Infrastructure
 {
     public class TemplateProcessor<T>
     {

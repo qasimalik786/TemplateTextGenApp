@@ -1,7 +1,7 @@
 using TemplateTextGenApp.Domain;
-using TemplatorText.Infrastructure;
+using TemplatorTextGenApp.Infrastructure;
 
-namespace TemplatorText.UniTest
+namespace TemplatorTextGenApp.UnitTest
 {
     [TestClass]
     public class TemplateProcessorTests

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj": {}
+    "C:\\Users\\QASI012\\source\\repos\\app\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj": {
+    "C:\\Users\\QASI012\\source\\repos\\app\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\QASI012\\source\\repos\\app\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj",
         "projectName": "TemplatorTextGenApp.Domain",
-        "projectPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj",
+        "projectPath": "C:\\Users\\QASI012\\source\\repos\\app\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\TemplatorTextGenApp.Domain.csproj",
         "packagesPath": "C:\\Users\\QASI012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QASI012\\source\\repos\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\QASI012\\source\\repos\\app\\TemplateTextGenApp\\TemplateTextGenApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QASI012\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TemplatorTextGenApp.UnitTest
-build_property.ProjectDir = C:\Users\QASI012\source\repos\TemplateTextGenApp\TemplatorText.UniTest\
+build_property.ProjectDir = C:\Users\QASI012\source\repos\app\TemplateTextGenApp\TemplatorText.UniTest\
