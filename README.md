@@ -18,23 +18,6 @@ Clean Code Architecture principles have been applied to develop the application.
 
 ## Folder Structure
 
-├── TemplatorText
-│   ├── TemplatorText.Application
-│   │   ├── TemplateTextService.cs
-│   │
-│   ├── TemplatorText.Domain
-│   │   └── Models
-│   │       ├── DataModel.cs
-│   │       └── Address.cs
-│   │
-│   ├── TemplatorText.Infrastructure
-│   │   ├── TemplateEngine.cs
-│   │ 
-│   ├── TemplatorText.Presentation
-│   │   └── Program.cs
-│   │
-│   ├── TemplatorText.UnitTest
-│   │   └── TemplateProcessorTests.cs
-│   │
-│   └── TemplatorText.sln
+![image](https://github.com/qasimalik786/TemplatorText/assets/93033428/aa8fa280-ed28-4162-8ee3-aab28a6ca36b)
+
 
