@@ -36,8 +36,6 @@ Clean Code Architecture principles have been applied to develop the application.
 
 ## Folder Structure
 
-![image](https://github.com/qasimalik786/TemplatorText/assets/93033428/aa8fa280-ed28-4162-8ee3-aab28a6ca36b)
-
-
+![image](https://github.com/qasimalik786/TemplateTextGenApp/assets/93033428/f56ad78a-0c27-41cc-a77b-f3b186c5d9d8)
 
 
